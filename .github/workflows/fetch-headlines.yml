@@ -1,0 +1,43 @@
+name: Translate BBC Sports News to Arabic
+
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Cache pip dependencies
+      uses: actions/cache@v4
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+
+    - name: Install dependencies
+      run: |
+        pip install feedparser requests
+
+    - name: Run translation script
+      run: python translate_news.py
+
+    - name: Commit translated news
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add translated_news.json
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update translated news - $(date -u +'%Y-%m-%d %H:%M UTC')"
+        git push
