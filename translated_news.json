@@ -1,13 +1,103 @@
 [
   {
-    "title_en": "Liverpool agree £123m deal for PSG's Barcola",
-    "title_ar": "يوافق على صفقة بقيمة 123 مليون £ لباركولا من باريس سان جيرمان",
-    "description_en": "Liverpool are closing in on a deal to sign forward Bradley Barcola, which will increase doubts over Cody Gakpo's future.",
-    "description_ar": "ليفربول يقترب من صفقة للتعاقد مع المهاجم برادلي باركولا، مما سيزيد من الشكوك حول مستقبل كودي غاكبو.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/999a/live/4e4ad390-a394-11f1-a291-b542ee92de7c.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c5ywgjnnn74o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 29 Aug 2026 08:03:53 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889397Z"
+    "title_en": "'That trust isn't there' - how does Iraola get best out of Isak?",
+    "title_ar": "\"هذه الثقة ليست موجودة\" - كيف تحصل إيرولا على أفضل النتائج من إسحاق ؟",
+    "description_en": "Alexander Isak scored his first goal of the season in the 2-2 draw against Nottingham Forest - but how do Liverpool get the best out of him?",
+    "description_ar": "سجل ألكسندر إيزاك هدفه الأول لهذا الموسم في التعادل 2-2 ضد نوتنغهام فورست - ولكن كيف يحصل ليفربول على أفضل النتائج منه ؟",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c79/live/1708fc40-a3bc-11f1-b13c-0d78069132fa.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cgjq65nvw38o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 15:49:49 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775236Z"
+  },
+  {
+    "title_en": "Jaissle claims first Premier League win at lacklustre Spurs",
+    "title_ar": "يدعي جايسل فوزه الأول في الدوري الممتاز في توتنهام الباهت",
+    "description_en": "Second-half goals from Anthony Elanga and Yoanne Wissa give manager Matthias Jaissle his first Premier League victory, as Newcastle United win 2-0 at Tottenham Hotspur.",
+    "description_ar": "أهداف الشوط الثاني من أنتوني إيلانغا ويوان ويسا تمنح المدرب ماتياس جايسل أول فوز له في الدوري الممتاز، حيث فاز نيوكاسل يونايتد 2-0 على توتنهام هوتسبير.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6052/live/2bac82c0-a3da-11f1-b109-879e35c24276.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/videos/c1kxe87ye7ro?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 19:27:16 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775263Z"
+  },
+  {
+    "title_en": "Man City open talks with Liverpool over Gakpo",
+    "title_ar": "محادثات مانشستر سيتي المفتوحة مع ليفربول حول غاكبو",
+    "description_en": "Manchester City open talks with Liverpool about signing Netherlands winger Cody Gakpo.",
+    "description_ar": "محادثات مانشستر سيتي المفتوحة مع ليفربول حول التعاقد مع الجناح الهولندي كودي غاكبو.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e0d/live/2683a700-a3e0-11f1-ada8-4d531f05da8c.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c39m0z4m2mpo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 20:17:18 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775272Z"
+  },
+  {
+    "title_en": "'Not bad for the worst team in Premier League history' - Hull's perfect start",
+    "title_ar": "\"ليس سيئًا لأسوأ فريق في تاريخ الدوري الإنجليزي الممتاز\" - بداية هال المثالية",
+    "description_en": "Hull striker Oli McBurnie has a playful dig at his team's critics after beating Coventry to win their opening two Premier League games.",
+    "description_ar": "مهاجم هال أولي مكبورني لديه حفر لعوب في منتقدي فريقه بعد فوزه على كوفنتري للفوز في مباراتيه الافتتاحيتين في الدوري الممتاز.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72c3/live/0f61d3e0-a3df-11f1-a291-b542ee92de7c.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c7v4ezerjrgo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 18:03:52 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775280Z"
+  },
+  {
+    "title_en": "Tonali struggles but Gonzalez impresses - player ratings for Tottenham v Newcastle",
+    "title_ar": "تونالي يكافح لكن غونزاليس يثير الإعجاب - تقييمات اللاعبين لتوتنهام ضد نيوكاسل",
+    "description_en": "How Tottenham Hotspur and Newcastle United's players rated following Saturday's 2-0 win for the visitors in their Premier League match.",
+    "description_ar": "كيف صنف لاعبو توتنهام هوتسبير ونيوكاسل يونايتد بعد فوز يوم السبت 2-0 للزوار في مباراتهم في الدوري الممتاز.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb70/live/04e8e750-a3d5-11f1-9323-c53d27c293d7.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c93e8qv2qq0o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 18:26:50 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775287Z"
+  },
+  {
+    "title_en": "Iraola awaits first win as Liverpool rescue late draw against Forest",
+    "title_ar": "إيراولا ينتظر الفوز الأول مع تعادل ليفربول للإنقاذ في وقت متأخر ضد فورست",
+    "description_en": "Liverpool come from behind twice to rescue a 2-2 draw against Nottingham Forest at Anfield, leaving new manager Andoni Iraola in search of his first Premier League win with the club.",
+    "description_ar": "جاء ليفربول من الخلف مرتين لإنقاذ التعادل 2-2 ضد نوتنغهام فورست في الأنفيلد، تاركا المدرب الجديد أندوني إيراولا بحثا عن فوزه الأول في الدوري الممتاز مع النادي.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eba0/live/540c3740-a3b9-11f1-a291-b542ee92de7c.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/videos/cx2zw96094xo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 19:12:20 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775295Z"
+  },
+  {
+    "title_en": "Tarkowski strikes late to rescue point for Everton at Bournemouth",
+    "title_ar": "تاركوفسكي يضرب في وقت متأخر لنقطة الإنقاذ لإيفرتون في بورنموث",
+    "description_en": "Everton captain James Tarkowski strikes in the 91st minute to rescue a point, as Bournemouth settle for a 1-1 draw at the Vitality Stadium.",
+    "description_ar": "يضرب كابتن إيفرتون جيمس تاركوفسكي في الدقيقة 91 لإنقاذ نقطة، حيث يستقر بورنموث على التعادل 1-1 في استاد الحيوية.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3d2/live/6ee93770-a3d7-11f1-b109-879e35c24276.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/videos/c70lenegd1qo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 19:12:07 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775301Z"
+  },
+  {
+    "title_en": "Hull continue perfect start with away win at Coventry",
+    "title_ar": "بدن السفينة يواصل بداية مثالية بالفوز خارج أرضه في كوفنتري",
+    "description_en": "Substitute Liam Millar's late goal helps Hull secure a 1-0 away victory against Coventry City and continues their perfect start to life back in the Premier League, with two wins from two matches.",
+    "description_ar": "هدف البديل ليام ميلار المتأخر يساعد هال على تأمين الفوز 1-0 خارج أرضه ضد كوفنتري سيتي ويواصل بدايته المثالية للحياة مرة أخرى في الدوري الممتاز، بفوزين من مباراتين.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66ef/live/11808ed0-a3d7-11f1-aed2-8d6da8d75094.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/videos/c5yjd20g6rpo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 19:12:12 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775311Z"
+  },
+  {
+    "title_en": "Forest agree £22m deal with Palace for Munoz",
+    "title_ar": "الغابة على صفقة بقيمة 22 مليون £ مع Palace for Munoz",
+    "description_en": "Nottingham Forest agree a deal worth a minimum of £22m to sign Daniel Munoz from Crystal Palace.",
+    "description_ar": "نوتنغهام فورست على صفقة بقيمة لا تقل عن 22 مليون £ لتوقيع دانييل مونوز من كريستال بالاس.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae33/live/39c7f900-a3b9-11f1-b13c-0d78069132fa.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c39m0vmgxrgo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 16:43:25 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775318Z"
+  },
+  {
+    "title_en": "O'Neill would rather Celtic had no fans at Ibrox than 300",
+    "title_ar": "يفضل أونيل ألا يكون لدى سلتيك مشجعين في Ibrox أكثر من 300",
+    "description_en": "Martin O'Neill says Celtic \"might as well not get any\" tickets after Rangers offered 300 for the sides' League Cup quarter-final at Ibrox next month.",
+    "description_ar": "يقول مارتن أونيل إن سلتيك \"قد لا يحصل على أي\" تذاكر بعد أن عرض رينجرز 300 تذكرة لنهائي كأس رابطة الأندية في إبروكس الشهر المقبل.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fac/live/df0bc860-a3dc-11f1-9323-c53d27c293d7.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cwyz4jxg3g4o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 19:29:12 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775328Z"
   },
   {
     "title_en": "Forest to bid £40m for Everton teenager Armstrong",
@@ -16,8 +106,558 @@
     "description_ar": "تطلق نوتنغهام فورست عرضًا طموحًا للتعاقد مع لاعب خط وسط إيفرتون المراهق هاريسون أرمسترونغ.",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47a6/live/f7f3d800-a39a-11f1-b666-4bd8c8e39163.jpg",
     "link": "https://www.bbc.co.uk/sport/football/articles/cy0znn7lg51o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 29 Aug 2026 11:43:43 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889423Z"
+    "published": "Sat, 29 Aug 2026 12:41:06 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775335Z"
+  },
+  {
+    "title_en": "Iraola angry as official's board delays subs before goal",
+    "title_ar": "إيرولا غاضبة لأن مجلس إدارة المسؤول يؤخر الغواصات قبل غول",
+    "description_en": "Liverpool boss Andoni Iraola says he was angry about being prevented from making a triple substitution sooner during his side's draw against Nottingham Forest.",
+    "description_ar": "يقول أندوني إيراولا مدرب ليفربول إنه كان غاضبًا من منعه من إجراء تبديل ثلاثي في وقت أقرب خلال تعادل فريقه ضد نوتنغهام فورست.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eb5/live/b2bb3800-a3b8-11f1-b13c-0d78069132fa.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cd795e9ejgzo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 15:27:43 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775346Z"
+  },
+  {
+    "title_en": "'Angry & apologetic' - can McCann halt Kilmarnock's losing start?",
+    "title_ar": "\"غاضب واعتذاري\" - هل يمكن لماكان أن يوقف بداية كيلمارنوك الخاسرة ؟",
+    "description_en": "What is going wrong at Kilmarnock amid losing start to Scottish Premiership season?",
+    "description_ar": "ما الخطأ الذي يحدث في كيلمارنوك وسط خسارة بداية موسم الدوري الاسكتلندي الممتاز ؟",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d446/live/875ed690-a3df-11f1-ada8-4d531f05da8c.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c86xw1v3vp4o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 19:39:22 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775353Z"
+  },
+  {
+    "title_en": "Liverpool agree £123m deal for PSG's Barcola",
+    "title_ar": "يوافق على صفقة بقيمة 123 مليون £ لباركولا من باريس سان جيرمان",
+    "description_en": "Liverpool are closing in on a deal to sign forward Bradley Barcola, which will increase doubts over Cody Gakpo's future.",
+    "description_ar": "ليفربول يقترب من صفقة للتعاقد مع المهاجم برادلي باركولا، مما سيزيد من الشكوك حول مستقبل كودي غاكبو.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/999a/live/4e4ad390-a394-11f1-a291-b542ee92de7c.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c5ywgjnnn74o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 08:03:53 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775361Z"
+  },
+  {
+    "title_en": "Gibbs-White shines - player ratings for Liverpool v Nottm Forest",
+    "title_ar": "جيبس وايت شاينز - تقييمات اللاعبين لليفربول ضد غابة نوتم",
+    "description_en": "How Liverpool and Nottingham Forest's players rated following their Premier League match.",
+    "description_ar": "كيف صنف لاعبو ليفربول ونوتنغهام فورست بعد مباراتهم في الدوري الممتاز.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9324/live/09c7f330-a3ab-11f1-af36-fffc938dca63.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckgwnnj281no?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 13:28:37 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775368Z"
+  },
+  {
+    "title_en": "Spurs 'didn't deserve' loss to Newcastle - De Zerbi",
+    "title_ar": "توتنهام \"لا يستحق\" الخسارة أمام نيوكاسل - دي زيربي",
+    "description_en": "Tottenham manager Roberto de Zerbi describes his side's 2-0 defeat by Newcastle United as an \"unfair result\", with Spurs rooted to the bottom of the Premier League table.",
+    "description_ar": "يصف روبرتو دي زيربي، مدرب توتنهام، هزيمة فريقه 2-0 أمام نيوكاسل يونايتد بأنها \"نتيجة غير عادلة\"، مع تأصيل توتنهام في قاع جدول الدوري الممتاز.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98b9/live/746b43d0-a3de-11f1-a291-b542ee92de7c.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/videos/c0e3wpp1dj7o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 19:44:47 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775375Z"
+  },
+  {
+    "title_en": "Newcastle showed 'full commitment' in Spurs win - Jaissle",
+    "title_ar": "أظهر نيوكاسل \"الالتزام الكامل\" في فوز توتنهام - جايسل",
+    "description_en": "Newcastle manager Matthias Jaissle says their 2-0 away win is \"well deserved\" and praises his side's decision making to secure three points against Tottenham in the Premier League.",
+    "description_ar": "يقول مدير نيوكاسل ماتياس جايسل إن فوزه 2-0 خارج أرضه \"يستحقه عن جدارة\" ويشيد بقرار فريقه بتأمين ثلاث نقاط ضد توتنهام في الدوري الممتاز.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/889b/live/1cccdb80-a3e2-11f1-b109-879e35c24276.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/videos/c3d7x1n93j2o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 20:02:44 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775381Z"
+  },
+  {
+    "title_en": "Moyes 'disappointed' with Everton performance",
+    "title_ar": "مويس \"يشعر بخيبة أمل\" من أداء إيفرتون",
+    "description_en": "Everton manager David Moyes praises his side's second-half resilience after James Tarkowski's injury-time equaliser rescues a point for The Toffees away to Bournemouth. Moyes admitted that it looked like his team \"were never going to score\" before the 91st minute breakthrough cancels out Alex Scott's first-half opener.",
+    "description_ar": "مدرب ايفرتون ديفيد مويز يشيد بمرونة فريقه في الشوط الثاني بعد أن أنقذ متعادل زمن الإصابة لجيمس تاركوفسكي نقطة لفريق التوفي بعيدا إلى بورنموث. اعترف مويس أنه بدا أن فريقه \"لن يسجل أبدا\" قبل أن يلغي اختراق الدقيقة 91 افتتاحية أليكس سكوت في الشوط الأول.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a41/live/7122d190-a3c8-11f1-a291-b542ee92de7c.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/videos/cy0znyel8d2o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 16:51:56 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775387Z"
+  },
+  {
+    "title_en": "Iraola urges 'passive' Liverpool to learn quickly after Forest draw",
+    "title_ar": "يحث إيراولا ليفربول \"السلبي\" على التعلم بسرعة بعد تعادل فورست",
+    "description_en": "Liverpool head coach Andoni Iraola says his side need to \"learn lessons\" after they twice come from behind to draw 2-2 with Nottingham Forest at Anfield.",
+    "description_ar": "يقول مدرب ليفربول أندوني إيرولا إن فريقه بحاجة إلى \"تعلم الدروس\" بعد أن جاءوا مرتين من الخلف للتعادل 2-2 مع نوتنغهام فورست في أنفيلد.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dd1/live/865ecfb0-a3b3-11f1-aed2-8d6da8d75094.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/videos/cwyz8dr7jz3o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 14:23:33 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775394Z"
+  },
+  {
+    "title_en": "'We've got to do more' - Lampard frustrated by loss to Hull",
+    "title_ar": "\"علينا أن نفعل المزيد\" - لامبارد محبط من الخسارة أمام هال",
+    "description_en": "Coventry manager Frank Lampard believes his side controlled possession but were \"too slow\" with the ball as their first top-flight home game in 25 years ends in a 1-0 defeat by Hull City.",
+    "description_ar": "يعتقد فرانك لامبارد مدرب كوفنتري أن فريقه يسيطر على الاستحواذ لكنه كان \"بطيئًا جدًا\" مع الكرة كأول مباراة له على أرضه في 25 عامًا تنتهي بهزيمة 1-0 أمام هال سيتي.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b094/live/d1e16680-a3c9-11f1-aed2-8d6da8d75094.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/videos/czjzdnj3l14o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 16:59:54 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775404Z"
+  },
+  {
+    "title_en": "'Slapstick' - Rose laments late Everton equaliser",
+    "title_ar": "\"Slapstick\" - تأسف روز على معادل إيفرتون المتأخر",
+    "description_en": "Bournemouth manager Marco Rose describes the injury-time goal his side conceded as \"slapstick\" as his side settle for a point in their 1-1 draw against Everton at the Vitality Stadium.",
+    "description_ar": "يصف ماركو روز مدرب بورنموث هدف وقت الإصابة الذي استقبله فريقه بأنه \"عصا صفعة\" حيث يستقر فريقه على نقطة في تعادلهم 1-1 ضد إيفرتون في استاد فيتاليتي.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d5a/live/4fd8dae0-a3c6-11f1-aed2-8d6da8d75094.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/videos/c7806jq0x02o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 17:12:43 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775411Z"
+  },
+  {
+    "title_en": "Moyes 'disappointed' with Everton performance",
+    "title_ar": "مويس \"يشعر بخيبة أمل\" من أداء إيفرتون",
+    "description_en": "Everton manager David Moyes praises his side's second-half resilience after James Tarkowski's injury-time equaliser rescues a point for The Toffees away to Bournemouth. Moyes admitted that it looked like his team \"were never going to score\" before the 91st minute breakthrough cancels out Alex Scott's first-half opener.",
+    "description_ar": "مدرب ايفرتون ديفيد مويز يشيد بمرونة فريقه في الشوط الثاني بعد أن أنقذ متعادل زمن الإصابة لجيمس تاركوفسكي نقطة لفريق التوفي بعيدا إلى بورنموث. اعترف مويس أنه بدا أن فريقه \"لن يسجل أبدا\" قبل أن يلغي اختراق الدقيقة 91 افتتاحية أليكس سكوت في الشوط الأول.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a41/live/7122d190-a3c8-11f1-a291-b542ee92de7c.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/videos/cy0znyel8d2o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 16:51:56 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775417Z"
+  },
+  {
+    "title_en": "Jakirovic urges Hull to 'stay humble' after back-to-back wins",
+    "title_ar": "يحث جاكروفيتش هال على \"البقاء متواضعًا\" بعد الفوز المتتالي",
+    "description_en": "Hull City manager Sergej Jakirovic reminds his side to \"stay humble\" after beating Coventry City for their second win in two Premier League games on their return to the top division.",
+    "description_ar": "يذكّر سيرجي جاكروفيتش، مدرب هال سيتي، فريقه بـ \"البقاء متواضعًا\" بعد فوزه على كوفنتري سيتي في فوزه الثاني في مباراتين في الدوري الإنجليزي الممتاز عند عودته إلى دوري الدرجة الأولى.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c384/live/36200c60-a3c9-11f1-aed2-8d6da8d75094.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/videos/c3eq3vl7k8xo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 16:54:39 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775424Z"
+  },
+  {
+    "title_en": "'Proud' but 'disappointed' - Glasner's mixed emotions after Liverpool draw",
+    "title_ar": "\"فخور\" ولكن \"محبط\" - مشاعر غلاسنر المختلطة بعد تعادل ليفربول",
+    "description_en": "Nottingham Forest manager Oliver Glasner says he was \"proud\" of his side's performance at Anfield as they draw 2-2 with Liverpool in the Premier League, and believes they could have won.",
+    "description_ar": "يقول أوليفر غلاسنر، مدرب نوتنغهام فورست، إنه \"فخور\" بأداء فريقه في أنفيلد حيث تعادلا 2-2 مع ليفربول في الدوري الممتاز، ويعتقد أنه كان بإمكانهما الفوز.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a730/live/4053b590-a3b2-11f1-aed2-8d6da8d75094.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/videos/c8xkj45r2jno?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 14:15:12 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775431Z"
+  },
+  {
+    "title_en": "Haaland and Cherki fire impressive Man City to victory at Palace",
+    "title_ar": "هالاند وشيركي يحرقان مانشستر سيتي المثيرة للإعجاب للفوز في بالاس",
+    "description_en": "Erling Haaland and Rayan Cherki both score twice as Manchester City cruise to a 4-1 win at Crystal Palace in the Premier League.",
+    "description_ar": "سجل كل من إيرلينغ هالاند وريان شيركي هدفين في رحلة مانشستر سيتي إلى الفوز 4-1 في كريستال بالاس في الدوري الممتاز.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82dd/live/aaa45590-a325-11f1-aed2-8d6da8d75094.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/videos/c8e3k3ww56no?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 21:30:06 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775438Z"
+  },
+  {
+    "title_en": "Are Charlton ready to challenge? - Sam Parkin's EFL takeaways",
+    "title_ar": "هل تشارلتون مستعد للتحدي ؟ - ملخص سام باركين للغة الإنجليزية كلغة أجنبية",
+    "description_en": "BBC Final Score pundit Sam Parkin looks at the weekend's talking points in the EFL, including a perfect start for Charlton Athletic.",
+    "description_ar": "ينظر الناقد في النتيجة النهائية لهيئة الإذاعة البريطانية \"بي بي سي\" سام باركين إلى نقاط الحديث في عطلة نهاية الأسبوع في الدوري الإنجليزي لكرة القدم، بما في ذلك بداية مثالية لتشارلتون أثليتيك.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93db/live/2d4a1790-801e-11f0-ab3e-bd52082cd0ae.png",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c305n87mdjro?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 19:43:28 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775445Z"
+  },
+  {
+    "title_en": "Three-week international break a concern - Mourinho",
+    "title_ar": "استراحة دولية لمدة ثلاثة أسابيع مصدر قلق - مورينيو",
+    "description_en": "Jose Mourinho says the three-week international break is a “concern” for Real Madrid, with several key players facing a demanding schedule after the World Cup.",
+    "description_ar": "يقول جوزيه مورينيو إن العطلة الدولية لمدة ثلاثة أسابيع هي \"مصدر قلق\" لريال مدريد، حيث يواجه العديد من اللاعبين الرئيسيين جدولًا زمنيًا صعبًا بعد كأس العالم.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64be/live/74591a00-a39f-11f1-bb7c-3b1918839019.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cx2zwwz5z4no?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 12:54:26 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775452Z"
+  },
+  {
+    "title_en": "Flex your football brain with our daily quizzes",
+    "title_ar": "قم بثني دماغك لكرة القدم من خلال اختباراتنا اليومية",
+    "description_en": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+    "description_ar": "اختبر معرفتك بالكرة مقابل من أنا اليوم ؟، خمسة من كل خمسة و Brainteaser.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c89jw4554e5o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 05:18:55 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775458Z"
+  },
+  {
+    "title_en": "The tiny town aiming to defy odds in Bundesliga debut",
+    "title_ar": "البلدة الصغيرة التي تهدف إلى تحدي الصعاب في أول ظهور للبوندسليغا",
+    "description_en": "Elversberg has no train station and a population of just 13,000, but its football team have enjoyed a meteoric rise from the regional German leagues to the Bundesliga.",
+    "description_ar": "لا يوجد لدى إلفيرسبيرغ محطة قطار ويبلغ عدد سكانها 13000 نسمة فقط، لكن فريقها لكرة القدم تمتع بارتفاع هائل من الدوريات الألمانية الإقليمية إلى الدوري الألماني.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f626/live/6d399fa0-a2fb-11f1-80b3-bf1a174ac193.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c70d4n1d0r9o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 16:14:34 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775465Z"
+  },
+  {
+    "title_en": "Arsenal & Barca monitor Rashford - Saturday's gossip",
+    "title_ar": "أرسنال وبرشلونة يراقبان راشفورد - ثرثرة السبت",
+    "description_en": "Arsenal monitor Marcus Rashford, Chelsea eye Monaco's Lamine Camara and Valencia push for Liverpool midfielder Harvey Elliott, plus more.",
+    "description_ar": "مراقب أرسنال ماركوس راشفورد، عين تشيلسي موناكو لامين كامارا وفالنسيا يضغطون على لاعب خط وسط ليفربول هارفي إليوت، بالإضافة إلى المزيد.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f6/live/6afa3b50-a319-11f1-a291-b542ee92de7c.png",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cp8416ll9yvo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 20:48:59 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775472Z"
+  },
+  {
+    "title_en": "Why one of sport's most iconic images resonates 70 years on",
+    "title_ar": "لماذا يتردد صدى واحدة من أكثر الصور الرياضية شهرة بعد 70 عامًا",
+    "description_en": "In 1956 a football photographer captured a moment in time that is still adored 70 years later.",
+    "description_ar": "في عام 1956، التقط مصور كرة قدم لحظة من الزمن لا تزال محبوبة بعد 70 عامًا.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc3f/live/374b8c80-a136-11f1-9311-09d4e1fc9016.jpg",
+    "link": "https://www.bbc.co.uk/news/articles/c33kv5gjeedo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 06:26:01 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775479Z"
+  },
+  {
+    "title_en": "Lampard 'somewhere in the middle' of Mourinho and Ancelotti",
+    "title_ar": "لامبارد \"في مكان ما في وسط\" مورينيو وأنشيلوتي",
+    "description_en": "Eight years into his own managerial career, Coventry City boss Frank Lampard cites Jose Mourinho and Carlo Ancelotti as the main influences on his style.",
+    "description_ar": "بعد ثماني سنوات من مسيرته الإدارية، يستشهد فرانك لامبارد رئيس كوفنتري سيتي بجوزيه مورينيو وكارلو أنشيلوتي على أنهما المؤثران الرئيسيان على أسلوبه.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1595/live/6e7a2c80-a167-11f1-aaf8-119f176ff4ce.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c87v04d59n3o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 05:12:27 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775486Z"
+  },
+  {
+    "title_en": "How to follow the Premier League on the BBC this weekend",
+    "title_ar": "كيفية متابعة الدوري الممتاز على بي بي سي في نهاية هذا الأسبوع",
+    "description_en": "Our Ask Me Anything team explains how to follow the opening matches of the Premier League season on the BBC this weekend.",
+    "description_ar": "يشرح فريق اسألني أي شيء كيفية متابعة المباريات الافتتاحية لموسم الدوري الممتاز على بي بي سي في نهاية هذا الأسبوع.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2460/live/a1970470-a1fe-11f1-a291-b542ee92de7c.png",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 27 Aug 2026 10:32:22 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775493Z"
+  },
+  {
+    "title_en": "How to follow Transfer Deadline Day on the BBC",
+    "title_ar": "كيفية متابعة يوم الموعد النهائي للنقل على بي بي سي",
+    "description_en": "Our Ask Me Anything team explain how to follow all the transfer deadline day action across the BBC.",
+    "description_ar": "يشرح فريق اسألني أي شيء كيفية متابعة جميع إجراءات يوم الموعد النهائي للنقل عبر بي بي سي.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a766/live/0e4186e0-a15a-11f1-aed2-8d6da8d75094.png",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cx2zxvqx8k9o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 09:12:46 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775499Z"
+  },
+  {
+    "title_en": "Sutton's predictions v Royal Blood drummer Ben Thatcher",
+    "title_ar": "تنبؤات ساتون ضد عازف طبول الدم الملكي بن تاتشر",
+    "description_en": "BBC Sport football expert Chris Sutton takes on Royal Blood drummer Ben Thatcher, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+    "description_ar": "خبير كرة القدم في بي بي سي سبورت كريس ساتون يواجه لاعب الدرامز الملكي بن تاتشر، بالإضافة إلى قراء بي بي سي والذكاء الاصطناعي بتوقعاته لمباريات الدوري الإنجليزي الممتاز في نهاية هذا الأسبوع.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9be5/live/48fabf40-98ae-11f1-b2ab-0dd01740f9f6.png",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c204dj7vng2o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 27 Aug 2026 16:04:56 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775506Z"
+  },
+  {
+    "title_en": "Division, drama and power - what next for Infantino and Uefa?",
+    "title_ar": "الانقسام والدراما والسلطة - ما هي الخطوة التالية لإنفانتينو والاتحاد الأوروبي لكرة القدم ؟",
+    "description_en": "Explosive court documents reveal the growing bitterness of Uefa's feud with Fifa president Gianni Infantino, Dan Roan reports.",
+    "description_ar": "تكشف وثائق المحكمة المتفجرة عن المرارة المتزايدة لعداء الاتحاد الأوروبي لكرة القدم مع رئيس الفيفا جياني إنفانتينو، حسبما ذكر دان روان.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2716/live/6301ae50-a2de-11f1-a4f5-c3e4a51a2b37.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c4gmx03npxmo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 15:00:20 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775512Z"
+  },
+  {
+    "title_en": "What is the aim for Kompany, Kane and Bayern?",
+    "title_ar": "ما هو هدف كومباني وكين وبايرن ؟",
+    "description_en": "Bayern Munich start their latest title defence as overwhelming odds-on favourites to win the Bundesliga again - so what would constitute success?",
+    "description_ar": "بايرن ميونيخ يبدأ دفاعه الأخير عن اللقب كمرشح ساحق للفوز بالدوري الألماني مرة أخرى - فما الذي سيشكل النجاح ؟",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b47f/live/3b8c52a0-9bd4-11f1-bb4d-1147ef2e78e5.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cvg967e3qqdo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 06:04:22 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775518Z"
+  },
+  {
+    "title_en": "Why Herrera is playing for free in Spanish third division",
+    "title_ar": "لماذا يلعب هيريرا مجانًا في الدرجة الثالثة الإسبانية",
+    "description_en": "Ander Herrera has represented some of the world's biggest clubs, but now he is back home playing for free in Spain's third tier - and this is why.",
+    "description_ar": "مثل أندر هيريرا بعض أكبر الأندية في العالم، لكنه الآن عاد إلى بلاده ليلعب مجانا في الدرجة الثالثة في إسبانيا - وهذا هو السبب.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6615/live/aa73c5f0-a083-11f1-bfeb-dfb02ea642ef.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c9864p3wz1jo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 27 Aug 2026 07:02:50 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775524Z"
+  },
+  {
+    "title_en": "Villa sign Goretzka - what went wrong at Bayern and what will he bring?",
+    "title_ar": "Villa sign Goretzka - ما الخطأ الذي حدث في بايرن وماذا سيحضر ؟",
+    "description_en": "Aston Villa complete the signing of former Bayern Munich midfielder Leon Goretzka on a free transfer.",
+    "description_ar": "أستون فيلا يكمل التعاقد مع لاعب خط وسط بايرن ميونيخ السابق ليون غوريتزكا في صفقة انتقال حر.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b916/live/253dca40-a153-11f1-92f3-2381193e5eb4.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c20vm630grxo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 27 Aug 2026 15:39:49 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775531Z"
+  },
+  {
+    "title_en": "Play BBC Sport's new Match of the Day Predictor game",
+    "title_ar": "العب لعبة Match of the Day Predictor الجديدة من BBC Sport",
+    "description_en": "Play BBC Sport's new Match of the Day predictor game to test your football knowledge and build up your streak.",
+    "description_ar": "العب لعبة التنبؤ بمباراة اليوم الجديدة من بي بي سي سبورت لاختبار معرفتك بكرة القدم وبناء خطك.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f20/live/9d42b940-9bce-11f1-aed2-8d6da8d75094.png",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqlxwvl1vv6o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 18 Aug 2026 14:04:22 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775537Z"
+  },
+  {
+    "title_en": "All done deals in August 2026",
+    "title_ar": "جميع الصفقات المنجزة في أغسطس 2026",
+    "description_en": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+    "description_ar": "ألقِ نظرة على التعاقدات والمغادرة المهمة في الدوري الإنجليزي الممتاز والدوري الاسكتلندي الممتاز ودوري كرة القدم الأوروبية والدوري السوبر للسيدات.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 10:24:45 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775544Z"
+  },
+  {
+    "title_en": "An action-revenge thriller steeped in mythology, starring Dev Patel",
+    "title_ar": "فيلم إثارة انتقامي أكشن غارق في الأساطير، من بطولة ديف باتل",
+    "description_en": "One small ember can burn down everything. Dev Patel’s thriller steeped in mythology",
+    "description_ar": "يمكن لجمرة صغيرة واحدة أن تحرق كل شيء. فيلم ديف باتل الغارق في الأساطير",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/711e/live/53b387f0-9cbe-11f1-a291-b542ee92de7c.jpg",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m0030fhy?at_mid=FzlbY7YSBK&at_campaign=Monkey_Man&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0030fhy&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Monkey_Man&at_bbc_team=BBC",
+    "published": "Thu, 20 Aug 2026 00:19:47 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775551Z"
+  },
+  {
+    "title_en": "Football in Greenland: The toughest championship in the world?",
+    "title_ar": "كرة القدم في غرينلاند: أصعب بطولة في العالم ؟",
+    "description_en": "BBC Sport travels to Nuuk for the Greenlandic Football Championship.",
+    "description_ar": "بي بي سي سبورت تسافر إلى نوك لبطولة غرينلاند لكرة القدم.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a087/live/b83dea10-a071-11f1-aed2-8d6da8d75094.jpg",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m002jb61?at_mid=XTtVv7O2ez&at_campaign=One_Week_One_Title_Football_in_Greenland&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002jb61&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=One_Week_One_Title_Football_in_Greenland&at_bbc_team=BBC",
+    "published": "Sat, 06 Sep 2025 12:59:59 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775558Z"
+  },
+  {
+    "title_en": "When is the EFL Cup third-round draw?",
+    "title_ar": "متى ستقام قرعة الدور الثالث لكأس الاتحاد الإنجليزي ؟",
+    "description_en": "The third-round draw of the EFL Cup takes place on Wednesday, with nine Premier League teams entering the competition at this stage.",
+    "description_ar": "ستقام قرعة الدور الثالث لكأس الدوري الإنجليزي يوم الأربعاء، مع دخول تسعة فرق من الدوري الممتاز إلى المسابقة في هذه المرحلة.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52db/live/6caf75b0-9260-11f1-a7ab-8b30adf0800a.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/clyegmmvr4vo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 25 Aug 2026 11:22:52 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775564Z"
+  },
+  {
+    "title_en": "How does prize money work in the EFL Cup?",
+    "title_ar": "كيف تعمل الجوائز المالية في كأس EFL ؟",
+    "description_en": "BBC Sport's Ask Me Anything team explains how prize money works in the EFL Cup",
+    "description_ar": "يشرح فريق اسألني أي شيء في بي بي سي سبورت كيف تعمل الجوائز المالية في كأس الدوري الإنجليزي الممتاز",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5a6/live/14d852c0-a05d-11f1-b109-879e35c24276.jpg",
+    "link": "https://www.bbc.co.uk/sport/articles/c8xkl258871o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 25 Aug 2026 08:54:07 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775570Z"
+  },
+  {
+    "title_en": "Why don't Chelsea or Sunderland have a shirt sponsor?",
+    "title_ar": "لماذا لا يكون لدى تشيلسي أو سندرلاند راعي قمصان ؟",
+    "description_en": "BBC Sport's Ask Me Anything team look at why Chelsea and Sunderland are the only Premier League clubs without a front-of-shirt sponsor.",
+    "description_ar": "ينظر فريق اسألني أي شيء في بي بي سي سبورت إلى سبب كون تشيلسي وسندرلاند الناديين الوحيدين في الدوري الممتاز بدون راعي للقميص.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37f4/live/38b1b2b0-9d45-11f1-a291-b542ee92de7c.jpg",
+    "link": "https://www.bbc.co.uk/sport/articles/cn0r9xk94l9o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 13:18:43 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775577Z"
+  },
+  {
+    "title_en": "Why do teams choose not to disclose transfer fees?",
+    "title_ar": "لماذا تختار الفرق عدم الكشف عن رسوم النقل ؟",
+    "description_en": "Our Ask Me Anything team explain why some player transfer fees are undisclosed, plus more of your transfer window questions.",
+    "description_ar": "يشرح فريق اسألني أي شيء سبب عدم الكشف عن بعض رسوم نقل اللاعبين، بالإضافة إلى المزيد من أسئلة نافذة النقل الخاصة بك.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e41c/live/29f9e160-958f-11f1-a7ab-8b30adf0800a.png",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cy0j1284e47o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 14:54:32 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775584Z"
+  },
+  {
+    "title_en": "What are the key dates for the women's football season?",
+    "title_ar": "ما هي التواريخ الرئيسية لموسم كرة القدم النسائية ؟",
+    "description_en": "BBC Sport's Ask Me Anything team details the key dates are for the 2026-27 women's football season.",
+    "description_ar": "يشرح فريق اسألني أي شيء في بي بي سي سبورت التواريخ الرئيسية لموسم كرة القدم للسيدات 2026-2027.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00c4/live/0a7e5940-9244-11f1-a7ab-8b30adf0800a.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/czxe311vkw9o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 10:03:52 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775591Z"
+  },
+  {
+    "title_en": "What are the key dates for the 2026-27 football season?",
+    "title_ar": "ما هي التواريخ الرئيسية لموسم كرة القدم 2026-2027 ؟",
+    "description_en": "BBC Sport's Ask Me Anything explains the full list of key dates for the 2026-27 men's football season",
+    "description_ar": "يشرح برنامج اسألني أي شيء من بي بي سي سبورت القائمة الكاملة للتواريخ الرئيسية لموسم كرة القدم للرجال 2026-2027",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2d3/live/7dfe1b00-7bb8-11f1-9510-1546718f668b.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cd0m840p7d1o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 09 Jul 2026 17:04:26 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775597Z"
+  },
+  {
+    "title_en": "O'Neill would rather Celtic had no fans at Ibrox than 300",
+    "title_ar": "يفضل أونيل ألا يكون لدى سلتيك مشجعين في Ibrox أكثر من 300",
+    "description_en": "Martin O'Neill says Celtic \"might as well not get any\" tickets after Rangers offered 300 for the sides' League Cup quarter-final at Ibrox next month.",
+    "description_ar": "يقول مارتن أونيل إن سلتيك \"قد لا يحصل على أي\" تذاكر بعد أن عرض رينجرز 300 تذكرة لنهائي كأس رابطة الأندية في إبروكس الشهر المقبل.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fac/live/df0bc860-a3dc-11f1-9323-c53d27c293d7.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cwyz4jxg3g4o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 19:29:12 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775604Z"
+  },
+  {
+    "title_en": "'Angry & apologetic' - can McCann halt Kilmarnock's losing start?",
+    "title_ar": "\"غاضب واعتذاري\" - هل يمكن لماكان أن يوقف بداية كيلمارنوك الخاسرة ؟",
+    "description_en": "What is going wrong at Kilmarnock amid losing start to Scottish Premiership season?",
+    "description_ar": "ما الخطأ الذي يحدث في كيلمارنوك وسط خسارة بداية موسم الدوري الاسكتلندي الممتاز ؟",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d446/live/875ed690-a3df-11f1-ada8-4d531f05da8c.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c86xw1v3vp4o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 19:39:22 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775610Z"
+  },
+  {
+    "title_en": "Podcast: Reaction to wins for Celtic, Hearts & Dundee Utd",
+    "title_ar": "بودكاست: رد فعل على انتصارات Celtic وHearts وDundee Utd",
+    "description_en": "Important wins for Celtic and Hearts as Dundee Utd pick up first league victory.",
+    "description_ar": "انتصارات مهمة لسيلتيك وهارتس حيث حقق داندي يونايتد الفوز في الدوري الأول.",
+    "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0gf9mfx.jpg",
+    "link": "https://www.bbc.co.uk/sounds/play/p0p70zvv?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 18:50:00 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775616Z"
+  },
+  {
+    "title_en": "'I know what I'm doing' - McInnes backs himself to deliver Rangers success",
+    "title_ar": "\"أنا أعرف ما أفعله\" - يدعم مكينيس نفسه لتحقيق نجاح رينجرز",
+    "description_en": "Manager Derek McInnes says Rangers are \"a long way away\" from what he wants but backs himself to deliver success at Ibrox.",
+    "description_ar": "يقول المدير ديريك مكينيس إن رينجرز \"بعيد جدا\" عما يريده لكنه يدعم نفسه لتحقيق النجاح في إيبروكس.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c82/live/a646d590-a32a-11f1-8e46-c39d9fc92d9e.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cjw5056v9v7o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 22:29:37 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775623Z"
+  },
+  {
+    "title_en": "Ruiz named Brighton boss after shock Vidosic exit",
+    "title_ar": "قام رويز بتسمية رئيس برايتون بعد خروج Vidosic من الصدمة",
+    "description_en": "Brighton have confirmed the appointment of Arturo Ruiz as their new women's head coach following the shock departure of Dario Vidosic.",
+    "description_ar": "أكدت برايتون تعيين أرتورو رويز كمدرب نسائي جديد بعد رحيل داريو فيدوسيتش المفاجئ.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c72/live/a630cfa0-a2f5-11f1-8d5b-155abe464768.png",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c209g56znylo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 16:00:28 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775630Z"
+  },
+  {
+    "title_en": "Man Utd sign Swedish winger Jusu Bah for £400K",
+    "title_ar": "مانشستر يونايتد يوقع الجناح السويدي جوسو باه مقابل 400 ألف £",
+    "description_en": "Manchester United have confirmed the signing of Sweden winger Monica Jusu Bah from BK Hacken for just under £400,000.",
+    "description_ar": "أكد مانشستر يونايتد توقيع الجناح السويدي مونيكا جوسو باه من BK Hacken مقابل أقل بقليل من 400 ألف جنيه إسترليني.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/589a/live/57b379f0-a2e0-11f1-b8f3-75ab988ad8ea.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c14dlme86d8o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 16:13:12 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775636Z"
+  },
+  {
+    "title_en": "Southampton deny Spygate link to cuts to women's side",
+    "title_ar": "ساوثهامبتون تنفي ارتباط Spygate بجروح في جانب النساء",
+    "description_en": "Southampton Women's head coach Simon Parker reveals that the summer has been \"challenging\" for the women's set-up at the club.",
+    "description_ar": "يكشف سايمون باركر، مدرب ساوثهامبتون للسيدات، أن الصيف كان \"صعبًا\" على مجموعة السيدات في النادي.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88c9/live/7d84d5e0-a2d4-11f1-941c-8741c1a72471.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cwyz1gv96vzo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 14:37:21 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775643Z"
+  },
+  {
+    "title_en": "NI's Howe relishing 'surreal' experience at Celtic",
+    "title_ar": "NI's Howe استمتع بتجربة \"سريالية\" في Celtic",
+    "description_en": "From Maguiresbridge to Celtic, Casey Howe has already packed plenty into a career that has taken her across the UK and Ireland - but her latest chapter may be the most exciting yet.",
+    "description_ar": "من Maguiresbridge إلى Celtic، حشدت كيسي هاو بالفعل الكثير في مهنة أخذتها عبر المملكة المتحدة وأيرلندا - لكن فصلها الأخير قد يكون الأكثر إثارة حتى الآن.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85d2/live/adb71140-a2cc-11f1-941c-8741c1a72471.png",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckgw2g9l8jpo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 14:50:05 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775650Z"
+  },
+  {
+    "title_en": "Why Spurs' under-the-radar buy might be summer's smartest deal",
+    "title_ar": "لماذا قد يكون شراء توتنهام تحت الرادار أذكى صفقة صيفية",
+    "description_en": "Why Kirsty Hanson's move from Aston Villa to Tottenham could be the key transfer of the Women's Super League summer.",
+    "description_ar": "لماذا يمكن أن يكون انتقال كريستي هانسون من أستون فيلا إلى توتنهام هو الانتقال الرئيسي للدوري الممتاز للسيدات في الصيف.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0118/live/d5ff9380-a217-11f1-9090-b51af3a01fc2.png",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cj3d1ky2642o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 06:48:31 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775657Z"
+  },
+  {
+    "title_en": "BBC Women's Football Weekly",
+    "title_ar": "كرة القدم النسائية الأسبوعية لهيئة الإذاعة البريطانية",
+    "description_en": "Martin Ho, Vic Pelova, Kirsty Hanson, Signe Gaupset and Tinka Tandberg join Ben Haines.",
+    "description_ar": "مارتن هو، فيك بيلوفا، كريستي هانسون، سيني غوبسيت وتينكا تاندبرغ ينضمون إلى بن هاينز.",
+    "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0p6wqxv.jpg",
+    "link": "https://www.bbc.co.uk/sounds/play/p0p6wqs6?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 18:49:00 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775664Z"
+  },
+  {
+    "title_en": "Fan backlash as gay World Cup star joins Saudi club",
+    "title_ar": "رد فعل عنيف من المعجبين مع انضمام نجم كأس العالم للمثليين إلى النادي السعودي",
+    "description_en": "Spain forward Esther Gonzalez attracts backlash after signing for Saudi Women's Premier League side Al Qadsiah.",
+    "description_ar": "المهاجم الإسباني إستر غونزاليس تجذب رد فعل عنيف بعد التوقيع مع القادسية في الدوري الممتاز للسيدات السعوديات.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69b2/live/7dce88f0-a1eb-11f1-bf30-b9c45f18ad85.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cvgyl2dvvv0o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 27 Aug 2026 08:52:41 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775670Z"
+  },
+  {
+    "title_en": "Life as a Wag in the transfer window",
+    "title_ar": "الحياة كمهرج في نافذة النقل",
+    "description_en": "What is life like for footballers' families during the transfer window where a last-minute deal means you need to uproot your life and move hundreds of miles?",
+    "description_ar": "كيف تبدو الحياة لعائلات لاعبي كرة القدم خلال فترة الانتقالات حيث تعني صفقة اللحظة الأخيرة أنك بحاجة إلى اقتلاع حياتك والانتقال مئات الأميال ؟",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ebc/live/82fc5780-925f-11f1-b9ff-37ae3aba3894.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 08 Aug 2026 05:15:34 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775677Z"
+  },
+  {
+    "title_en": "A secret invite and other 'pinch-me' moments before Leicester woke up",
+    "title_ar": "دعوة سرية ولحظات \"قرصة\" أخرى قبل استيقاظ ليستر",
+    "description_en": "Leicester are gearing up for League One but 10 years ago they were defending Premier League champions. The dream moments haven't been forgotten.",
+    "description_ar": "يستعد ليستر لدوري الدرجة الأولى ولكن قبل 10 سنوات كانوا يدافعون عن أبطال الدوري الممتاز. لم يتم نسيان لحظات الأحلام.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ae/live/f49263e0-901a-11f1-b8ee-9b3c26ad07bb.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cy7j72nvzmzo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 12:41:51 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775683Z"
+  },
+  {
+    "title_en": "The summer that changed Welsh football",
+    "title_ar": "الصيف الذي غير كرة القدم الويلزية",
+    "description_en": "A decade on from Euro 2016, key figures tell BBC Sport Wales the inside story of the summer that changed Welsh football forever.",
+    "description_ar": "بعد عقد من يورو 2016، أخبرت الشخصيات الرئيسية بي بي سي سبورت ويلز القصة الداخلية للصيف التي غيرت كرة القدم الويلزية إلى الأبد.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b7a/live/37a319f0-8c0f-11f1-aa8b-ebe30ab3ea99.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ced4lq94ldvo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 05:17:17 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775690Z"
+  },
+  {
+    "title_en": "The country that doesn't play football... yet",
+    "title_ar": "البلد الذي لا يلعب كرة القدم... حتى الآن",
+    "description_en": "Nauru is the only nation to have never played an official international football match and hardly anyone there plays the game. Is that about to change?",
+    "description_ar": "ناورو هي الدولة الوحيدة التي لم تلعب مباراة كرة قدم دولية رسمية ولا يكاد أي شخص هناك يلعب هذه اللعبة. هل هذا على وشك التغيير ؟",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9599/live/2a716010-84e0-11f1-8a1f-271692b35cb6.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c5y03dermmeo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 21 Jul 2026 05:47:13 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775696Z"
+  },
+  {
+    "title_en": "In spotlight but shunning limelight - Olise's unique rise to top",
+    "title_ar": "في دائرة الضوء ولكن تجنب الأضواء - صعود أوليسي الفريد إلى القمة",
+    "description_en": "A footballer who dislikes too much media attention, but Michael Olise might not have much choice if he carries on his World Cup heroics.",
+    "description_ar": "لاعب كرة قدم يكره الكثير من الاهتمام الإعلامي، لكن مايكل أوليس قد لا يكون لديه الكثير من الخيارات إذا استمر في بطولات كأس العالم.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec37/live/30515480-77ad-11f1-b21a-9d51504ec77b.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c5yzr42943lo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 04 Jul 2026 11:02:02 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775703Z"
+  },
+  {
+    "title_en": "How Cornish miners brought football to Mexico",
+    "title_ar": "كيف جلب عمال المناجم الكورنيون كرة القدم إلى المكسيك",
+    "description_en": "As Mexico prepares to become the first country to host or co-host the World Cup three times, BBC Sport looks at its Cornish footballing roots.",
+    "description_ar": "بينما تستعد المكسيك لتصبح أول دولة تستضيف أو تشارك في استضافة كأس العالم ثلاث مرات، تنظر بي بي سي سبورت إلى جذورها الكورنية لكرة القدم.",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e08d/live/51c98ee0-5aaa-11f1-b277-cd187c78657d.jpg",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cx21q453l4jo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 02 Jun 2026 05:28:25 GMT",
+    "fetched_at": "2026-08-29T20:20:24.775709Z"
   },
   {
     "title_en": "A magician and a maverick - this could be Cherki's moment for Man City",
@@ -28,36 +668,6 @@
     "link": "https://www.bbc.co.uk/sport/football/articles/c24j5jnnr9eo?at_medium=RSS&at_campaign=rss",
     "published": "Fri, 28 Aug 2026 22:56:42 GMT",
     "fetched_at": "2026-08-29T12:12:43.889433Z"
-  },
-  {
-    "title_en": "Lampard 'somewhere in the middle' of Mourinho and Ancelotti",
-    "title_ar": "لامبارد \"في مكان ما في وسط\" مورينيو وأنشيلوتي",
-    "description_en": "Eight years into his own managerial career, Coventry City boss Frank Lampard cites Jose Mourinho and Carli Ancelotti as the main influences on his style.",
-    "description_ar": "بعد ثماني سنوات من مسيرته الإدارية، يستشهد فرانك لامبارد رئيس كوفنتري سيتي بجوزيه مورينيو وكارلي أنشيلوتي على أنهما المؤثران الرئيسيان على أسلوبه.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1595/live/6e7a2c80-a167-11f1-aaf8-119f176ff4ce.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c87v04d59n3o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 29 Aug 2026 05:12:27 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889440Z"
-  },
-  {
-    "title_en": "The tiny town aiming to defy odds in Bundesliga debut",
-    "title_ar": "البلدة الصغيرة التي تهدف إلى تحدي الصعاب في أول ظهور للبوندسليغا",
-    "description_en": "Elversberg has no train station and a population of just 13,000, but its football team have enjoyed a meteoric rise from the regional German leagues to the Bundesliga.",
-    "description_ar": "لا يوجد لدى إلفيرسبيرغ محطة قطار ويبلغ عدد سكانها 13000 نسمة فقط، لكن فريقها لكرة القدم تمتع بارتفاع هائل من الدوريات الألمانية الإقليمية إلى الدوري الألماني.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f626/live/6d399fa0-a2fb-11f1-80b3-bf1a174ac193.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c70d4n1d0r9o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 29 Aug 2026 06:55:10 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889447Z"
-  },
-  {
-    "title_en": "Arsenal & Barca monitor Rashford - Saturday's gossip",
-    "title_ar": "أرسنال وبرشلونة يراقبان راشفورد - ثرثرة السبت",
-    "description_en": "Arsenal monitor Marcus Rashford, Chelsea eye Monaco's Lamine Camara and Valencia push for Liverpool midfielder Harvey Elliott, plus more.",
-    "description_ar": "مراقب أرسنال ماركوس راشفورد، عين تشيلسي موناكو لامين كامارا وفالنسيا يضغطون على لاعب خط وسط ليفربول هارفي إليوت، بالإضافة إلى المزيد.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f6/live/6afa3b50-a319-11f1-a291-b542ee92de7c.png",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cp8416ll9yvo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 20:48:59 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889454Z"
   },
   {
     "title_en": "Trippier praises Miley's 'big presence' as Newcastle face Tonali reunion",
@@ -78,16 +688,6 @@
     "link": "https://www.bbc.co.uk/sport/football/articles/c8d3jpyd1rno?at_medium=RSS&at_campaign=rss",
     "published": "Sat, 29 Aug 2026 05:30:20 GMT",
     "fetched_at": "2026-08-29T12:12:43.889470Z"
-  },
-  {
-    "title_en": "Flex your football brain with our daily quizzes",
-    "title_ar": "قم بثني دماغك لكرة القدم من خلال اختباراتنا اليومية",
-    "description_en": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-    "description_ar": "اختبر معرفتك بالكرة مقابل من أنا اليوم ؟، خمسة من كل خمسة و Brainteaser.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c89jw4554e5o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 29 Aug 2026 05:18:55 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889476Z"
   },
   {
     "title_en": "Cherki genius and Wharton excels -  Palace v Man City player ratings",
@@ -128,26 +728,6 @@
     "link": "https://www.bbc.co.uk/sport/football/articles/cd94xd9j7z5o?at_medium=RSS&at_campaign=rss",
     "published": "Sat, 29 Aug 2026 07:44:32 GMT",
     "fetched_at": "2026-08-29T12:12:43.889506Z"
-  },
-  {
-    "title_en": "McInnes backs himself to deliver Rangers success",
-    "title_ar": "يدعم McInnes نفسه لتحقيق نجاح رينجرز",
-    "description_en": "Manager Derek McInnes says Rangers are \"a long way away\" from what he wants but backs himself to deliver success at Ibrox.",
-    "description_ar": "يقول المدير ديريك مكينيس إن رينجرز \"بعيد جدا\" عما يريده لكنه يدعم نفسه لتحقيق النجاح في إيبروكس.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c82/live/a646d590-a32a-11f1-8e46-c39d9fc92d9e.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cjw5056v9v7o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 22:29:37 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889513Z"
-  },
-  {
-    "title_en": "Haaland and Cherki fire impressive Man City to victory at Palace",
-    "title_ar": "هالاند وشيركي يحرقان مانشستر سيتي المثيرة للإعجاب للفوز في بالاس",
-    "description_en": "Erling Haaland and Rayan Cherki both score twice as Manchester City cruise to a 4-1 win at Crystal Palace in the Premier League.",
-    "description_ar": "سجل كل من إيرلينغ هالاند وريان شيركي هدفين في رحلة مانشستر سيتي إلى الفوز 4-1 في كريستال بالاس في الدوري الممتاز.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82dd/live/aaa45590-a325-11f1-aed2-8d6da8d75094.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/videos/c8e3k3ww56no?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 21:30:06 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889520Z"
   },
   {
     "title_en": "Let's be brave about being in Premier League - Coventry's Lampard",
@@ -280,16 +860,6 @@
     "fetched_at": "2026-08-29T12:12:43.889611Z"
   },
   {
-    "title_en": "Division, drama and power - what next for Infantino and Uefa?",
-    "title_ar": "الانقسام والدراما والسلطة - ما هي الخطوة التالية لإنفانتينو والاتحاد الأوروبي لكرة القدم ؟",
-    "description_en": "Explosive court documents reveal the growing bitterness of Uefa's feud with Fifa president Gianni Infantino, Dan Roan reports.",
-    "description_ar": "تكشف وثائق المحكمة المتفجرة عن المرارة المتزايدة لعداء الاتحاد الأوروبي لكرة القدم مع رئيس الفيفا جياني إنفانتينو، حسبما ذكر دان روان.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2716/live/6301ae50-a2de-11f1-a4f5-c3e4a51a2b37.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c4gmx03npxmo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 15:00:20 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889620Z"
-  },
-  {
     "title_en": "Ordonez's move to Palace in doubt after medical",
     "title_ar": "انتقال أوردونيز إلى القصر في شك بعد الفحص الطبي",
     "description_en": "Club Brugge defender Joel Ordonez's move to Crystal Palace runs into complications after his medical, with the Eagles set to decide whether to proceed with the deal.",
@@ -328,26 +898,6 @@
     "link": "https://www.bbc.co.uk/sport/football/articles/cddv0564vy7o?at_medium=RSS&at_campaign=rss",
     "published": "Fri, 28 Aug 2026 19:21:38 GMT",
     "fetched_at": "2026-08-29T12:12:43.889646Z"
-  },
-  {
-    "title_en": "Ruiz named Brighton boss after shock Vidosic exit",
-    "title_ar": "قام رويز بتسمية رئيس برايتون بعد خروج Vidosic من الصدمة",
-    "description_en": "Brighton have confirmed the appointment of Arturo Ruiz as their new women's head coach following the shock departure of Dario Vidosic.",
-    "description_ar": "أكدت برايتون تعيين أرتورو رويز كمدرب نسائي جديد بعد رحيل داريو فيدوسيتش المفاجئ.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c72/live/a630cfa0-a2f5-11f1-8d5b-155abe464768.png",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c209g56znylo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 16:00:28 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889653Z"
-  },
-  {
-    "title_en": "Why one of sport's most iconic images resonates 70 years on",
-    "title_ar": "لماذا يتردد صدى واحدة من أكثر الصور الرياضية شهرة بعد 70 عامًا",
-    "description_en": "In 1956 a football photographer captured a moment in time that is still adored 70 years later.",
-    "description_ar": "في عام 1956، التقط مصور كرة قدم لحظة من الزمن لا تزال محبوبة بعد 70 عامًا.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc3f/live/374b8c80-a136-11f1-9311-09d4e1fc9016.jpg",
-    "link": "https://www.bbc.co.uk/news/articles/c33kv5gjeedo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 29 Aug 2026 06:26:01 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889659Z"
   },
   {
     "title_en": "Celtic & Rangers to play home cup ties behind closed doors after fan disorder",
@@ -410,16 +960,6 @@
     "fetched_at": "2026-08-29T12:12:43.889698Z"
   },
   {
-    "title_en": "How to follow the Premier League on the BBC this weekend",
-    "title_ar": "كيفية متابعة الدوري الممتاز على بي بي سي في نهاية هذا الأسبوع",
-    "description_en": "Our Ask Me Anything team explains how to follow the opening matches of the Premier League season on the BBC this weekend.",
-    "description_ar": "يشرح فريق اسألني أي شيء كيفية متابعة المباريات الافتتاحية لموسم الدوري الممتاز على بي بي سي في نهاية هذا الأسبوع.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2460/live/a1970470-a1fe-11f1-a291-b542ee92de7c.png",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 27 Aug 2026 10:32:22 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889705Z"
-  },
-  {
     "title_en": "'They are now athletes' - how do referees get ready for a season?",
     "title_ar": "\"إنهم الآن رياضيون\" - كيف يستعد الحكام لموسم واحد ؟",
     "description_en": "Pre-season camps in Spain and full-time training throughout the season - the rigorous regimes top-flight officials undergo to keep up with the pace of play in the Premier League",
@@ -450,66 +990,6 @@
     "fetched_at": "2026-08-29T12:12:43.889724Z"
   },
   {
-    "title_en": "How to follow Transfer Deadline Day on the BBC",
-    "title_ar": "كيفية متابعة يوم الموعد النهائي للنقل على بي بي سي",
-    "description_en": "Our Ask Me Anything team explain how to follow all the transfer deadline day action across the BBC.",
-    "description_ar": "يشرح فريق اسألني أي شيء كيفية متابعة جميع إجراءات يوم الموعد النهائي للنقل عبر بي بي سي.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a766/live/0e4186e0-a15a-11f1-aed2-8d6da8d75094.png",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cx2zxvqx8k9o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 09:12:46 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889738Z"
-  },
-  {
-    "title_en": "Southampton deny Spygate link to cuts to women's side",
-    "title_ar": "ساوثهامبتون تنفي ارتباط Spygate بجروح في جانب النساء",
-    "description_en": "Southampton Women's head coach Simon Parker reveals that the summer has been \"challenging\" for the women's set-up at the club.",
-    "description_ar": "يكشف سايمون باركر، مدرب ساوثهامبتون للسيدات، أن الصيف كان \"صعبًا\" على مجموعة السيدات في النادي.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88c9/live/7d84d5e0-a2d4-11f1-941c-8741c1a72471.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cwyz1gv96vzo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 14:37:21 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889744Z"
-  },
-  {
-    "title_en": "Sutton's predictions v Royal Blood drummer Ben Thatcher",
-    "title_ar": "تنبؤات ساتون ضد عازف طبول الدم الملكي بن تاتشر",
-    "description_en": "BBC Sport football expert Chris Sutton takes on Royal Blood drummer Ben Thatcher, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
-    "description_ar": "خبير كرة القدم في بي بي سي سبورت كريس ساتون يواجه لاعب الدرامز الملكي بن تاتشر، بالإضافة إلى قراء بي بي سي والذكاء الاصطناعي بتوقعاته لمباريات الدوري الإنجليزي الممتاز في نهاية هذا الأسبوع.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9be5/live/48fabf40-98ae-11f1-b2ab-0dd01740f9f6.png",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c204dj7vng2o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 27 Aug 2026 16:04:56 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889750Z"
-  },
-  {
-    "title_en": "What is the aim for Kompany, Kane and Bayern?",
-    "title_ar": "ما هو هدف كومباني وكين وبايرن ؟",
-    "description_en": "Bayern Munich start their latest title defence as overwhelming odds-on favourites to win the Bundesliga again - so what would constitute success?",
-    "description_ar": "بايرن ميونيخ يبدأ دفاعه الأخير عن اللقب كمرشح ساحق للفوز بالدوري الألماني مرة أخرى - فما الذي سيشكل النجاح ؟",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b47f/live/3b8c52a0-9bd4-11f1-bb4d-1147ef2e78e5.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cvg967e3qqdo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 06:04:22 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889757Z"
-  },
-  {
-    "title_en": "Why Herrera is playing for free in Spanish third division",
-    "title_ar": "لماذا يلعب هيريرا مجانًا في الدرجة الثالثة الإسبانية",
-    "description_en": "Ander Herrera has represented some of the world's biggest clubs, but now he is back home playing for free in Spain's third tier - and this is why.",
-    "description_ar": "مثل أندر هيريرا بعض أكبر الأندية في العالم، لكنه الآن عاد إلى بلاده ليلعب مجانا في الدرجة الثالثة في إسبانيا - وهذا هو السبب.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6615/live/aa73c5f0-a083-11f1-bfeb-dfb02ea642ef.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c9864p3wz1jo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 27 Aug 2026 07:02:50 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889763Z"
-  },
-  {
-    "title_en": "Villa sign Goretzka - what went wrong at Bayern and what will he bring?",
-    "title_ar": "Villa sign Goretzka - ما الخطأ الذي حدث في بايرن وماذا سيحضر ؟",
-    "description_en": "Aston Villa complete the signing of former Bayern Munich midfielder Leon Goretzka on a free transfer.",
-    "description_ar": "أستون فيلا يكمل التعاقد مع لاعب خط وسط بايرن ميونيخ السابق ليون غوريتزكا في صفقة انتقال حر.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b916/live/253dca40-a153-11f1-92f3-2381193e5eb4.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c20vm630grxo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 27 Aug 2026 15:39:49 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889770Z"
-  },
-  {
     "title_en": "Martin's reputation on line as he tries to halt Leicester slide",
     "title_ar": "سمعة مارتن على الإنترنت وهو يحاول وقف انزلاق ليستر",
     "description_en": "Manager Russell Martin is trying to end his own miserable period of results as he attempts to stop Leicester's downward spiral.",
@@ -518,485 +998,5 @@
     "link": "https://www.bbc.co.uk/sport/football/articles/cvgylrex4gyo?at_medium=RSS&at_campaign=rss",
     "published": "Thu, 27 Aug 2026 08:56:40 GMT",
     "fetched_at": "2026-08-29T12:12:43.889775Z"
-  },
-  {
-    "title_en": "Play BBC Sport's new Match of the Day Predictor game",
-    "title_ar": "العب لعبة Match of the Day Predictor الجديدة من BBC Sport",
-    "description_en": "Play BBC Sport's new Match of the Day predictor game to test your football knowledge and build up your streak.",
-    "description_ar": "العب لعبة التنبؤ بمباراة اليوم الجديدة من بي بي سي سبورت لاختبار معرفتك بكرة القدم وبناء خطك.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f20/live/9d42b940-9bce-11f1-aed2-8d6da8d75094.png",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cqlxwvl1vv6o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 14:04:22 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889782Z"
-  },
-  {
-    "title_en": "All done deals in August 2026",
-    "title_ar": "جميع الصفقات المنجزة في أغسطس 2026",
-    "description_en": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-    "description_ar": "ألقِ نظرة على التعاقدات والمغادرة المهمة في الدوري الإنجليزي الممتاز والدوري الاسكتلندي الممتاز ودوري كرة القدم الأوروبية والدوري السوبر للسيدات.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 29 Aug 2026 10:24:45 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889788Z"
-  },
-  {
-    "title_en": "An action-revenge thriller steeped in mythology, starring Dev Patel",
-    "title_ar": "فيلم إثارة انتقامي أكشن غارق في الأساطير، من بطولة ديف باتل",
-    "description_en": "One small ember can burn down everything. Dev Patel’s thriller steeped in mythology",
-    "description_ar": "يمكن لجمرة صغيرة واحدة أن تحرق كل شيء. فيلم ديف باتل الغارق في الأساطير",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/711e/live/53b387f0-9cbe-11f1-a291-b542ee92de7c.jpg",
-    "link": "https://www.bbc.co.uk/iplayer/episode/m0030fhy?at_mid=FzlbY7YSBK&at_campaign=Monkey_Man&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0030fhy&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Monkey_Man&at_bbc_team=BBC",
-    "published": "Thu, 20 Aug 2026 00:19:47 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889795Z"
-  },
-  {
-    "title_en": "Football in Greenland: The toughest championship in the world?",
-    "title_ar": "كرة القدم في غرينلاند: أصعب بطولة في العالم ؟",
-    "description_en": "BBC Sport travels to Nuuk for the Greenlandic Football Championship.",
-    "description_ar": "بي بي سي سبورت تسافر إلى نوك لبطولة غرينلاند لكرة القدم.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a087/live/b83dea10-a071-11f1-aed2-8d6da8d75094.jpg",
-    "link": "https://www.bbc.co.uk/iplayer/episode/m002jb61?at_mid=XTtVv7O2ez&at_campaign=One_Week_One_Title_Football_in_Greenland&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002jb61&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=One_Week_One_Title_Football_in_Greenland&at_bbc_team=BBC",
-    "published": "Sat, 06 Sep 2025 12:59:59 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889801Z"
-  },
-  {
-    "title_en": "When is the EFL Cup third-round draw?",
-    "title_ar": "متى ستقام قرعة الدور الثالث لكأس الاتحاد الإنجليزي ؟",
-    "description_en": "The third-round draw of the EFL Cup takes place on Wednesday, with nine Premier League teams entering the competition at this stage.",
-    "description_ar": "ستقام قرعة الدور الثالث لكأس الدوري الإنجليزي يوم الأربعاء، مع دخول تسعة فرق من الدوري الممتاز إلى المسابقة في هذه المرحلة.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52db/live/6caf75b0-9260-11f1-a7ab-8b30adf0800a.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/clyegmmvr4vo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 25 Aug 2026 11:22:52 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889808Z"
-  },
-  {
-    "title_en": "How does prize money work in the EFL Cup?",
-    "title_ar": "كيف تعمل الجوائز المالية في كأس EFL ؟",
-    "description_en": "BBC Sport's Ask Me Anything team explains how prize money works in the EFL Cup",
-    "description_ar": "يشرح فريق اسألني أي شيء في بي بي سي سبورت كيف تعمل الجوائز المالية في كأس الدوري الإنجليزي الممتاز",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5a6/live/14d852c0-a05d-11f1-b109-879e35c24276.jpg",
-    "link": "https://www.bbc.co.uk/sport/articles/c8xkl258871o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 25 Aug 2026 08:54:07 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889814Z"
-  },
-  {
-    "title_en": "Why don't Chelsea or Sunderland have a shirt sponsor?",
-    "title_ar": "لماذا لا يكون لدى تشيلسي أو سندرلاند راعي قمصان ؟",
-    "description_en": "BBC Sport's Ask Me Anything team look at why Chelsea and Sunderland are the only Premier League clubs without a front-of-shirt sponsor.",
-    "description_ar": "ينظر فريق اسألني أي شيء في بي بي سي سبورت إلى سبب كون تشيلسي وسندرلاند الناديين الوحيدين في الدوري الممتاز بدون راعي للقميص.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37f4/live/38b1b2b0-9d45-11f1-a291-b542ee92de7c.jpg",
-    "link": "https://www.bbc.co.uk/sport/articles/cn0r9xk94l9o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 21 Aug 2026 13:18:43 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889821Z"
-  },
-  {
-    "title_en": "Why do teams choose not to disclose transfer fees?",
-    "title_ar": "لماذا تختار الفرق عدم الكشف عن رسوم النقل ؟",
-    "description_en": "Our Ask Me Anything team explain why some player transfer fees are undisclosed, plus more of your transfer window questions.",
-    "description_ar": "يشرح فريق اسألني أي شيء سبب عدم الكشف عن بعض رسوم نقل اللاعبين، بالإضافة إلى المزيد من أسئلة نافذة النقل الخاصة بك.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e41c/live/29f9e160-958f-11f1-a7ab-8b30adf0800a.png",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cy0j1284e47o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 14:54:32 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889827Z"
-  },
-  {
-    "title_en": "What are the key dates for the women's football season?",
-    "title_ar": "ما هي التواريخ الرئيسية لموسم كرة القدم النسائية ؟",
-    "description_en": "BBC Sport's Ask Me Anything team details the key dates are for the 2026-27 women's football season.",
-    "description_ar": "يشرح فريق اسألني أي شيء في بي بي سي سبورت التواريخ الرئيسية لموسم كرة القدم للسيدات 2026-2027.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00c4/live/0a7e5940-9244-11f1-a7ab-8b30adf0800a.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/czxe311vkw9o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 10:03:52 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889834Z"
-  },
-  {
-    "title_en": "What are the key dates for the 2026-27 football season?",
-    "title_ar": "ما هي التواريخ الرئيسية لموسم كرة القدم 2026-2027 ؟",
-    "description_en": "BBC Sport's Ask Me Anything explains the full list of key dates for the 2026-27 men's football season",
-    "description_ar": "يشرح برنامج اسألني أي شيء من بي بي سي سبورت القائمة الكاملة للتواريخ الرئيسية لموسم كرة القدم للرجال 2026-2027",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2d3/live/7dfe1b00-7bb8-11f1-9510-1546718f668b.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cd0m840p7d1o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 09 Jul 2026 17:04:26 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889840Z"
-  },
-  {
-    "title_en": "Hospitalised Goodwin to miss Dundee United's Kilmarnock trip",
-    "title_ar": "نقل غودوين إلى المستشفى لتفويت رحلة دندي يونايتد في كيلمارنوك",
-    "description_en": "Jim Goodwin will be missing from Dundee United's dugout against Kilmarnock on Saturday after taking ill and being admitted to hospital on Thursday, the Scottish Premiership club confirm.",
-    "description_ar": "أكد نادي الدوري الاسكتلندي الممتاز أن جيم غودوين سيغيب عن مخبأ داندي يونايتد ضد كيلمارنوك يوم السبت بعد إصابته بالمرض وإدخاله المستشفى يوم الخميس.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7657/live/a5f332c0-a2e7-11f1-a789-b16da4059b6b.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ckgwd1789qzo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 29 Aug 2026 10:17:22 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889847Z"
-  },
-  {
-    "title_en": "Off the Ball: Stuart & Tam plus guests Jordan Young & Ashley Reid",
-    "title_ar": "خارج الملعب: ستيوارت وتام بلس الضيوف جوردان يونغ وآشلي ريد",
-    "description_en": "The most petty and ill-informed football show on radio.",
-    "description_ar": "أكثر برامج كرة القدم تافهة وغير مستنيرة على الراديو.",
-    "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg",
-    "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 29 Aug 2026 13:00:00 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889853Z"
-  },
-  {
-    "title_en": "'Celtic in talks for PSV's Van den Berg' - gossip",
-    "title_ar": "\"سلتيك في محادثات مع فان دن بيرغ من PSV\" - ثرثرة",
-    "description_en": "Celtic are reportedly close to signing PSV Eindhoven's Joel van den Berg, but they and Rangers appear to have missed out on other targets as Dundee United consider another bid for Falkirk's Brad Spencer.",
-    "description_ar": "يقال إن سيلتيك على وشك التعاقد مع جويل فان دن بيرغ من PSV Eindhoven، لكن يبدو أنهم ورينجرز قد فاتتهم أهداف أخرى حيث يدرس داندي يونايتد عرضًا آخر لبراد سبنسر من فالكيرك.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a79f/live/16749400-a386-11f1-a291-b542ee92de7c.png",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cvgy6l0kpx0o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 29 Aug 2026 08:38:38 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889859Z"
-  },
-  {
-    "title_en": "How will clubs respond to Euro disappointments?",
-    "title_ar": "كيف ستستجيب الأندية لخيبة أمل اليورو ؟",
-    "description_en": "Read the best storylines before this weekend's full card of Scottish Premiership fixtures.",
-    "description_ar": "اقرأ أفضل القصص قبل البطاقة الكاملة لمباريات الدوري الاسكتلندي الممتاز في نهاية هذا الأسبوع.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c2b/live/06fbfed0-a2e3-11f1-b109-879e35c24276.png",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cddv0564vy7o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 19:21:38 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889866Z"
-  },
-  {
-    "title_en": "'I know what I'm doing' - McInnes backs himself to deliver Rangers success",
-    "title_ar": "\"أنا أعرف ما أفعله\" - يدعم مكينيس نفسه لتحقيق نجاح رينجرز",
-    "description_en": "Manager Derek McInnes says Rangers are \"a long way away\" from what he wants but backs himself to deliver success at Ibrox.",
-    "description_ar": "يقول المدير ديريك مكينيس إن رينجرز \"بعيد جدا\" عما يريده لكنه يدعم نفسه لتحقيق النجاح في إيبروكس.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c82/live/a646d590-a32a-11f1-8e46-c39d9fc92d9e.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cjw5056v9v7o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 22:29:37 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889873Z"
-  },
-  {
-    "title_en": "O'Neill hopeful over transfers despite LASK defeat",
-    "title_ar": "أونيل متفائل بشأن الانتقالات على الرغم من هزيمة LASK",
-    "description_en": "Celtic manager Martin O'Neill hopes missing out on the Champions League will not mean missing out on prospective targets.",
-    "description_ar": "يأمل مارتن أونيل مدرب سلتيك أن تفويت دوري أبطال أوروبا لن يعني تفويت الأهداف المحتملة.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/995a/live/324e3400-a2f1-11f1-92c5-6fbfa8f46936.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c790zjlw2v0o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 15:16:36 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889879Z"
-  },
-  {
-    "title_en": "Rangers to give Celtic 300 tickets for cup game",
-    "title_ar": "الحراس لإعطاء سلتيك 300 تذكرة لمباراة الكأس",
-    "description_en": "Rangers confirm they will provide Celtic with 300 tickets for the League Cup quarter-final at Ibrox on 13 September.",
-    "description_ar": "يؤكد الحراس أنهم سيقدمون لسلتيك 300 تذكرة لنهائي كأس الرابطة في إبروكس في 13 سبتمبر.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/424a/live/363f36c0-a311-11f1-93b3-fd1f81ebc907.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cvgyw4zyyp2o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 18:59:28 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889885Z"
-  },
-  {
-    "title_en": "Ruiz named Brighton boss after shock Vidosic exit",
-    "title_ar": "قام رويز بتسمية رئيس برايتون بعد خروج Vidosic من الصدمة",
-    "description_en": "Brighton have confirmed the appointment of Arturo Ruiz as their new women's head coach following the shock departure of Dario Vidosic.",
-    "description_ar": "أكدت برايتون تعيين أرتورو رويز كمدرب نسائي جديد بعد رحيل داريو فيدوسيتش المفاجئ.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c72/live/a630cfa0-a2f5-11f1-8d5b-155abe464768.png",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c209g56znylo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 16:00:28 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889892Z"
-  },
-  {
-    "title_en": "Man Utd sign Swedish winger Jusu Bah for £400K",
-    "title_ar": "مانشستر يونايتد يوقع الجناح السويدي جوسو باه مقابل 400 ألف £",
-    "description_en": "Manchester United have confirmed the signing of Sweden winger Monica Jusu Bah from BK Hacken for just under £400,000.",
-    "description_ar": "أكد مانشستر يونايتد توقيع الجناح السويدي مونيكا جوسو باه من BK Hacken مقابل أقل بقليل من 400 ألف جنيه إسترليني.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/589a/live/57b379f0-a2e0-11f1-b8f3-75ab988ad8ea.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c14dlme86d8o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 16:13:12 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889898Z"
-  },
-  {
-    "title_en": "Southampton deny Spygate link to cuts to women's side",
-    "title_ar": "ساوثهامبتون تنفي ارتباط Spygate بجروح في جانب النساء",
-    "description_en": "Southampton Women's head coach Simon Parker reveals that the summer has been \"challenging\" for the women's set-up at the club.",
-    "description_ar": "يكشف سايمون باركر، مدرب ساوثهامبتون للسيدات، أن الصيف كان \"صعبًا\" على مجموعة السيدات في النادي.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88c9/live/7d84d5e0-a2d4-11f1-941c-8741c1a72471.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cwyz1gv96vzo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 14:37:21 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889905Z"
-  },
-  {
-    "title_en": "NI's Howe relishing 'surreal' experience at Celtic",
-    "title_ar": "NI's Howe استمتع بتجربة \"سريالية\" في Celtic",
-    "description_en": "From Maguiresbridge to Celtic, Casey Howe has already packed plenty into a career that has taken her across the UK and Ireland - but her latest chapter may be the most exciting yet.",
-    "description_ar": "من Maguiresbridge إلى Celtic، حشدت كيسي هاو بالفعل الكثير في مهنة أخذتها عبر المملكة المتحدة وأيرلندا - لكن فصلها الأخير قد يكون الأكثر إثارة حتى الآن.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85d2/live/adb71140-a2cc-11f1-941c-8741c1a72471.png",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ckgw2g9l8jpo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 14:50:05 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889911Z"
-  },
-  {
-    "title_en": "Why Spurs' under-the-radar buy might be summer's smartest deal",
-    "title_ar": "لماذا قد يكون شراء توتنهام تحت الرادار أذكى صفقة صيفية",
-    "description_en": "Why Kirsty Hanson's move from Aston Villa to Tottenham could be the key transfer of the Women's Super League summer.",
-    "description_ar": "لماذا يمكن أن يكون انتقال كريستي هانسون من أستون فيلا إلى توتنهام هو الانتقال الرئيسي للدوري الممتاز للسيدات في الصيف.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0118/live/d5ff9380-a217-11f1-9090-b51af3a01fc2.png",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cj3d1ky2642o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 06:48:31 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889917Z"
-  },
-  {
-    "title_en": "BBC Women's Football Weekly",
-    "title_ar": "كرة القدم النسائية الأسبوعية لهيئة الإذاعة البريطانية",
-    "description_en": "Martin Ho, Vic Pelova, Kirsty Hanson, Signe Gaupset and Tinka Tandberg join Ben Haines.",
-    "description_ar": "مارتن هو، فيك بيلوفا، كريستي هانسون، سيني غوبسيت وتينكا تاندبرغ ينضمون إلى بن هاينز.",
-    "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0p6wqxv.jpg",
-    "link": "https://www.bbc.co.uk/sounds/play/p0p6wqs6?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 18:49:00 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889923Z"
-  },
-  {
-    "title_en": "Fan backlash as gay World Cup star joins Saudi club",
-    "title_ar": "رد فعل عنيف من المعجبين مع انضمام نجم كأس العالم للمثليين إلى النادي السعودي",
-    "description_en": "Spain forward Esther Gonzalez attracts backlash after signing for Saudi Women's Premier League side Al Qadsiah.",
-    "description_ar": "المهاجم الإسباني إستر غونزاليس تجذب رد فعل عنيف بعد التوقيع مع القادسية في الدوري الممتاز للسيدات السعوديات.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69b2/live/7dce88f0-a1eb-11f1-bf30-b9c45f18ad85.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cvgyl2dvvv0o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 27 Aug 2026 08:52:41 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889930Z"
-  },
-  {
-    "title_en": "Life as a Wag in the transfer window",
-    "title_ar": "الحياة كمهرج في نافذة النقل",
-    "description_en": "What is life like for footballers' families during the transfer window where a last-minute deal means you need to uproot your life and move hundreds of miles?",
-    "description_ar": "كيف تبدو الحياة لعائلات لاعبي كرة القدم خلال فترة الانتقالات حيث تعني صفقة اللحظة الأخيرة أنك بحاجة إلى اقتلاع حياتك والانتقال مئات الأميال ؟",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ebc/live/82fc5780-925f-11f1-b9ff-37ae3aba3894.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 08 Aug 2026 05:15:34 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889936Z"
-  },
-  {
-    "title_en": "A secret invite and other 'pinch-me' moments before Leicester woke up",
-    "title_ar": "دعوة سرية ولحظات \"قرصة\" أخرى قبل استيقاظ ليستر",
-    "description_en": "Leicester are gearing up for League One but 10 years ago they were defending Premier League champions. The dream moments haven't been forgotten.",
-    "description_ar": "يستعد ليستر لدوري الدرجة الأولى ولكن قبل 10 سنوات كانوا يدافعون عن أبطال الدوري الممتاز. لم يتم نسيان لحظات الأحلام.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ae/live/f49263e0-901a-11f1-b8ee-9b3c26ad07bb.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cy7j72nvzmzo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 12:41:51 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889943Z"
-  },
-  {
-    "title_en": "The summer that changed Welsh football",
-    "title_ar": "الصيف الذي غير كرة القدم الويلزية",
-    "description_en": "A decade on from Euro 2016, key figures tell BBC Sport Wales the inside story of the summer that changed Welsh football forever.",
-    "description_ar": "بعد عقد من يورو 2016، أخبرت الشخصيات الرئيسية بي بي سي سبورت ويلز القصة الداخلية للصيف التي غيرت كرة القدم الويلزية إلى الأبد.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b7a/live/37a319f0-8c0f-11f1-aa8b-ebe30ab3ea99.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ced4lq94ldvo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 05:17:17 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889950Z"
-  },
-  {
-    "title_en": "The country that doesn't play football... yet",
-    "title_ar": "البلد الذي لا يلعب كرة القدم... حتى الآن",
-    "description_en": "Nauru is the only nation to have never played an official international football match and hardly anyone there plays the game. Is that about to change?",
-    "description_ar": "ناورو هي الدولة الوحيدة التي لم تلعب مباراة كرة قدم دولية رسمية ولا يكاد أي شخص هناك يلعب هذه اللعبة. هل هذا على وشك التغيير ؟",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9599/live/2a716010-84e0-11f1-8a1f-271692b35cb6.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c5y03dermmeo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 21 Jul 2026 05:47:13 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889956Z"
-  },
-  {
-    "title_en": "In spotlight but shunning limelight - Olise's unique rise to top",
-    "title_ar": "في دائرة الضوء ولكن تجنب الأضواء - صعود أوليسي الفريد إلى القمة",
-    "description_en": "A footballer who dislikes too much media attention, but Michael Olise might not have much choice if he carries on his World Cup heroics.",
-    "description_ar": "A footballer who dislikes too much media attention, but Michael Olise might not have much choice if he carries on his World Cup heroics.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec37/live/30515480-77ad-11f1-b21a-9d51504ec77b.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c5yzr42943lo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 04 Jul 2026 11:02:02 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889962Z"
-  },
-  {
-    "title_en": "How Cornish miners brought football to Mexico",
-    "title_ar": "كيف جلب عمال المناجم الكورنيون كرة القدم إلى المكسيك",
-    "description_en": "As Mexico prepares to become the first country to host or co-host the World Cup three times, BBC Sport looks at its Cornish footballing roots.",
-    "description_ar": "As Mexico prepares to become the first country to host or co-host the World Cup three times, BBC Sport looks at its Cornish footballing roots.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e08d/live/51c98ee0-5aaa-11f1-b277-cd187c78657d.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cx21q453l4jo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 02 Jun 2026 05:28:25 GMT",
-    "fetched_at": "2026-08-29T12:12:43.889969Z"
-  },
-  {
-    "title_en": "Former QPR player Buzsaky confirms he is safe",
-    "title_ar": "يؤكد لاعب QPR السابق بوزاكي أنه بأمان",
-    "description_en": "Former QPR midfielder Akos Buzsaky posts a message on social media to confirm he is safe after being reported missing.",
-    "description_ar": "نشر لاعب خط وسط QPR السابق أكوس بوزاكي رسالة على وسائل التواصل الاجتماعي لتأكيد سلامته بعد الإبلاغ عن اختفائه.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/813f/live/59c0a680-a2c9-11f1-941c-8741c1a72471.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c74e81jvvvjo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 11:30:57 GMT",
-    "fetched_at": "2026-08-29T05:26:15.985916Z"
-  },
-  {
-    "title_en": "Southampton re-sign former captain Ward-Prowse",
-    "title_ar": "ساوثهامبتون تعيد توقيع الكابتن السابق وارد براوس",
-    "description_en": "Southampton complete a deal to sign their former captain James Ward-Prowse from West Ham United.",
-    "description_ar": "أكمل ساوثهامبتون صفقة لتوقيع قائده السابق جيمس وارد براوز من وست هام يونايتد.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5082/live/1c461140-a2cf-11f1-941c-8741c1a72471.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cz7zwn2nvqjo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 11:01:04 GMT",
-    "fetched_at": "2026-08-29T05:26:15.985934Z"
-  },
-  {
-    "title_en": "Managers under pressure already - preview of the EFL weekend",
-    "title_ar": "المديرون تحت الضغط بالفعل - معاينة عطلة نهاية أسبوع اللغة الإنجليزية كلغة أجنبية",
-    "description_en": "BBC Sport picks out five highlights to keep an eye on in Saturday's busy EFL programme.",
-    "description_ar": "تختار بي بي سي سبورت خمس نقاط بارزة لتراقبها في برنامج EFL المزدحم يوم السبت.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9494/live/9691caf0-a187-11f1-aed2-8d6da8d75094.png",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cx2zlg01q7go?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 07:37:55 GMT",
-    "fetched_at": "2026-08-29T05:26:15.985942Z"
-  },
-  {
-    "title_en": "BBC to televise Knowle v Worcester FA Cup tie",
-    "title_ar": "بي بي سي للتلفزيون نول ضد ورسستر كأس الاتحاد الإنجليزي التعادل",
-    "description_en": "The FA Cup first qualifying round between Knowle and Worcester City will be shown live on the BBC next month.",
-    "description_ar": "سيتم عرض الجولة التأهيلية الأولى لكأس الاتحاد الإنجليزي بين نول ووستر سيتي على الهواء مباشرة على بي بي سي الشهر المقبل.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7002/live/72da1d30-a2c5-11f1-9024-715001d09aeb.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cd94nzz3g0qo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 12:07:48 GMT",
-    "fetched_at": "2026-08-29T05:26:15.986017Z"
-  },
-  {
-    "title_en": "Football Daily",
-    "title_ar": "كرة القدم اليومية",
-    "description_en": "John Murray, Ian Dennis & Ali Bruce-Ball discuss life as football commentators.",
-    "description_ar": "يناقش جون موراي وإيان دينيس وعلي بروس بول الحياة كمعلقين على كرة القدم.",
-    "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg",
-    "link": "https://www.bbc.co.uk/sounds/play/m00311r6?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 13:35:00 GMT",
-    "fetched_at": "2026-08-29T05:26:15.986038Z"
-  },
-  {
-    "title_en": "Taekwondo, stats and £1m record - the rise of Arsenal striker Smith",
-    "title_ar": "التايكوندو والإحصائيات وسجل 1 مليون £ - صعود آرسنال",
-    "description_en": "Olivia Smith's career has been in the limelight since she was 15 - but she had been preparing herself for it even before she was a professional footballer.",
-    "description_ar": "كانت مهنة أوليفيا سميث في دائرة الضوء منذ أن كانت في الخامسة عشرة من عمرها - لكنها كانت تعد نفسها لذلك حتى قبل أن تصبح لاعبة كرة قدم محترفة.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6786/live/ae28a060-9fae-11f1-bff6-57f1422ebb0b.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c8jdl0n0r7mo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 26 Aug 2026 05:16:06 GMT",
-    "fetched_at": "2026-08-29T05:26:15.986068Z"
-  },
-  {
-    "title_en": "Is Joao Pedro ready to break Chelsea's so-called number nine curse?",
-    "title_ar": "هل جواو بيدرو مستعد لكسر ما يسمى لعنة تشيلسي رقم تسعة ؟",
-    "description_en": "Joao Pedro took just 31 seconds to score his opening goal of the season - will the new number nine reach the 20 he scored last season while wearing the number 20 shirt?",
-    "description_ar": "استغرق جواو بيدرو 31 ثانية فقط لتسجيل هدفه الافتتاحي لهذا الموسم - هل سيصل الرقم تسعة الجديد إلى الرقم 20 الذي سجله الموسم الماضي أثناء ارتدائه القميص رقم 20 ؟",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2f9/live/2ff1ca00-a11b-11f1-aed2-8d6da8d75094.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cgk5ydy0vk4o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 26 Aug 2026 05:41:12 GMT",
-    "fetched_at": "2026-08-29T05:26:15.986075Z"
-  },
-  {
-    "title_en": "'Some big games' - Celtic face Benfica & Hearts meet Salah's Trabzonspor",
-    "title_ar": "\"بعض الألعاب الكبيرة\" - سيلتيك فيس بنفيكا آند هارتس يلتقيان بطرابزونسبور صلاح",
-    "description_en": "Celtic will meet Benfica and Marseille in the Europa League while Hearts will take on Mo Salah's Trabzonspor and Monaco in the Conference League.",
-    "description_ar": "سيلتقي سلتيك مع بنفيكا ومرسيليا في الدوري الأوروبي بينما سيلتقي هارتس مع مو صلاح في طرابزون سبور وموناكو في دوري المؤتمرات.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4f0/live/4a454ff0-a2db-11f1-b109-879e35c24276.png",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cvgy7148nvzo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 14:31:07 GMT",
-    "fetched_at": "2026-08-29T05:26:15.986184Z"
-  },
-  {
-    "title_en": "Rangers count consequences of European failure",
-    "title_ar": "يحسب الحراس عواقب الفشل الأوروبي",
-    "description_en": "A bruising loss in the Czech Republic gives Rangers pause on various fronts as European football eludes Derek McInnes.",
-    "description_ar": "خسارة مؤلمة في جمهورية التشيك تمنح رينجرز وقفة على جبهات مختلفة حيث تستعصي كرة القدم الأوروبية على ديريك مكينيس.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2238/live/8b2841b0-a2ce-11f1-941c-8741c1a72471.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c24j564e76jo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 15:18:13 GMT",
-    "fetched_at": "2026-08-29T05:26:15.986198Z"
-  },
-  {
-    "title_en": "Why 'woeful' Villa crumbled against Brighton",
-    "title_ar": "لماذا انهارت الفيلا \"المحزنة\" ضد برايتون",
-    "description_en": "Match of the Day's Danny Murphy, Gabby Logan and Joe Hart analyse Aston Villa's \"woeful\" performance against Brighton, which saw them lose 4-0.",
-    "description_ar": "حلل داني ميرفي وغابي لوغان وجو هارت أداء أستون فيلا \"المؤسف\" ضد برايتون، مما جعلهم يخسرون 4-0.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be71/live/41e92660-9f43-11f1-a291-b542ee92de7c.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/videos/c39e9gvxznro?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 23 Aug 2026 23:03:23 GMT",
-    "fetched_at": "2026-08-28T21:41:15.171870Z"
-  },
-  {
-    "title_en": "Opening win was beyond anyone's dreams - Hull assistant Holden",
-    "title_ar": "كان الفوز الافتتاحي أبعد من أحلام أي شخص - مساعد هال هولدن",
-    "description_en": "Following their huge win against Manchester United, Hull City assistant head coach Dean Holden joins Gabby Logan, Danny Murphy and Joe Hart in the Match of the Day studio.",
-    "description_ar": "بعد فوزهم الكبير على مانشستر يونايتد، انضم مساعد مدرب هال سيتي دين هولدن إلى غابي لوغان وداني ميرفي وجو هارت في استوديو مباراة اليوم.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0abe/live/0a7fe200-9f4c-11f1-a291-b542ee92de7c.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/videos/c0kmk6rd30no?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 23 Aug 2026 23:37:29 GMT",
-    "fetched_at": "2026-08-28T21:41:15.171876Z"
-  },
-  {
-    "title_en": "Wasteful Palace punished by Everton in Sage's first game",
-    "title_ar": "تمت معاقبة Wasteful Palace من قبل Everton في أول مباراة لـ Sage",
-    "description_en": "Everton beat Crystal Palace 2–0 to win their opening game of the Premier League season for the first time in five years, with goals from Kiernan Dewsbury‑Hall and Thierno.",
-    "description_ar": "فاز إيفرتون على كريستال بالاس 2–0 ليفوز بمباراته الافتتاحية لموسم الدوري الممتاز لأول مرة منذ خمس سنوات، بأهداف من كيرنان ديوسبري هول وتيرنو.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53bc/live/30d71700-9e54-11f1-aed2-8d6da8d75094.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/videos/c0m7dk4z82ro?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 22 Aug 2026 19:00:58 GMT",
-    "fetched_at": "2026-08-28T21:41:15.171883Z"
-  },
-  {
-    "title_en": "Flex your football brain with our daily quizzes",
-    "title_ar": "قم بثني دماغك لكرة القدم من خلال اختباراتنا اليومية",
-    "description_en": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-    "description_ar": "اختبر معرفتك بالكرة مقابل من أنا اليوم ؟، خمسة من كل خمسة و Brainteaser.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cwyz7481wr7o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 05:41:36 GMT",
-    "fetched_at": "2026-08-28T21:41:15.171922Z"
-  },
-  {
-    "title_en": "Who am I? Guess Bundesliga star No 1",
-    "title_ar": "من أنا ؟ تخمين نجم الدوري الألماني رقم 1",
-    "description_en": "Work out the identity of today's Bundesliga player in as few attempts as possible.",
-    "description_ar": "استنتج هوية لاعب البوندسليغا اليوم في أقل عدد ممكن من المحاولات.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e276/live/68e5e3b0-9ae9-11f1-b792-a710e56a11dc.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/crmr997drnvo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 12:42:36 GMT",
-    "fetched_at": "2026-08-28T21:41:15.171999Z"
-  },
-  {
-    "title_en": "Are Moyes and Everton's owners on same page?",
-    "title_ar": "هل مالكو مويس وإيفرتون على نفس الصفحة ؟",
-    "description_en": "David Moyes said he was surprised Everton's owners regarded missing out on Europe last season as \"failure\". Phil McNulty asks if they are they on the same page.",
-    "description_ar": "وقال ديفيد مويس إنه فوجئ بأن مالكي إيفرتون اعتبروا غيابهم عن أوروبا الموسم الماضي \"فشلا\". يسأل فيل ماكنالتي عما إذا كانوا على نفس الصفحة.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b705/live/af83c9d0-a13e-11f1-9311-09d4e1fc9016.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cx2zk7lg622o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 27 Aug 2026 10:35:26 GMT",
-    "fetched_at": "2026-08-28T21:41:15.172046Z"
-  },
-  {
-    "title_en": "Have expensively assembled Rangers improved at all under 'mortified' McInnes?",
-    "title_ar": "هل تحسنت مجموعة رينجرز التي تم تجميعها بتكلفة باهظة على الإطلاق تحت ماكنيز \"المذلة \"؟",
-    "description_en": "After crashing out of the Conference League, questions are mounting for Derek McInnes at Rangers, writes Tom English.",
-    "description_ar": "بعد الخروج من دوري المؤتمرات، تتصاعد الأسئلة لديريك ماكينيس في رينجرز، يكتب توم إنجلش.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1390/live/75ed4910-a2a3-11f1-ab20-f9f4f61e8913.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/clyqd7lz3pno?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 27 Aug 2026 22:48:29 GMT",
-    "fetched_at": "2026-08-28T08:49:57.569195Z"
-  },
-  {
-    "title_en": "Arsenal continue Alvarez pursuit - Friday's gossip",
-    "title_ar": "آرسنال يواصل مطاردة الفاريز - ثرثرة الجمعة",
-    "description_en": "Arsenal continue pursuit to sign Julian Alvarez, Manchester City target Everton's Iliman Ndiaye and Aston Villa make direct contact to sign Rafael Leao.",
-    "description_ar": "يواصل أرسنال سعيه للتعاقد مع جوليان ألفاريز، وهدف مانشستر سيتي إليمان ندياي من إيفرتون، ويقوم أستون فيلا بالاتصال المباشر للتعاقد مع رافاييل لياو.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3fe/live/b7e4a7f0-a25d-11f1-a291-b542ee92de7c.png",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c3eq89xedp0o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 27 Aug 2026 21:33:44 GMT",
-    "fetched_at": "2026-08-28T08:49:57.569262Z"
-  },
-  {
-    "title_en": "Chelsea agree £7.5m fee for Villa's Martinez",
-    "title_ar": "يوافق على رسوم بقيمة 7.5 مليون £ لفيلا مارتينيز",
-    "description_en": "Chelsea agree a £7.5m fee to sign Aston Villa goalkeeper Emiliano Martinez.",
-    "description_ar": "يوافق على رسوم بقيمة 7.5 مليون £ للتعاقد مع إيميليانو مارتينيز حارس مرمى أستون فيلا.",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cb9/live/9970a180-a243-11f1-804a-af7f2afa0e85.jpg",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c1j4r033wxzo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 27 Aug 2026 18:28:09 GMT",
-    "fetched_at": "2026-08-28T08:49:57.569278Z"
   }
 ]
