@@ -1,7 +1,7 @@
 name: Translate BBC Sports News to Arabic
 
 on:
-  schedule:
+  schedul.e:
     # Run every 6 hours
     - cron: '0 */6 * * *'
   workflow_dispatch:  # Manual trigger
